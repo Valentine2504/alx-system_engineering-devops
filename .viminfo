@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1665478805,,"wq"
+|2,0,1665511578,,"wq"
 :q!
 |2,0,1665478622,,"q!"
 
@@ -29,16 +29,58 @@
 # global variables:
 
 # File marks:
-'0  3  0  ~/storage/git
-|4,48,3,0,1665478805,"~/storage/git"
+'0  3  26  ~/.netrc
+|4,48,3,26,1665511578,"~/.netrc"
+'1  3  0  ~/0x02-shell_redirections/0-hello_world
+|4,49,3,0,1665506628,"~/0x02-shell_redirections/0-hello_world"
+'2  3  0  ~/storage/git
+|4,50,3,0,1665478805,"~/storage/git"
 
 # Jumplist (newest first):
+-'  3  26  ~/.netrc
+|4,39,3,26,1665511578,"~/.netrc"
+-'  1  0  ~/.netrc
+|4,39,1,0,1665511452,"~/.netrc"
+-'  3  0  ~/0x02-shell_redirections/0-hello_world
+|4,39,3,0,1665506628,"~/0x02-shell_redirections/0-hello_world"
+-'  3  0  ~/0x02-shell_redirections/0-hello_world
+|4,39,3,0,1665506628,"~/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1665506587,"~/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1665506587,"~/0x02-shell_redirections/0-hello_world"
+-'  3  0  ~/storage/git
+|4,39,3,0,1665478805,"~/storage/git"
+-'  3  0  ~/storage/git
+|4,39,3,0,1665478805,"~/storage/git"
+-'  3  0  ~/storage/git
+|4,39,3,0,1665478805,"~/storage/git"
 -'  3  0  ~/storage/git
 |4,39,3,0,1665478805,"~/storage/git"
 -'  1  0  ~/storage/git
 |4,39,1,0,1665478651,"~/storage/git"
+-'  1  0  ~/storage/git
+|4,39,1,0,1665478651,"~/storage/git"
+-'  1  0  ~/storage/git
+|4,39,1,0,1665478651,"~/storage/git"
+-'  1  0  ~/storage/git
+|4,39,1,0,1665478651,"~/storage/git"
 
 # History of marks within files (newest to oldest):
+
+> ~/.netrc
+	*	1665511569	0
+	"	3	26
+	^	3	27
+	.	3	26
+	+	3	26
+
+> ~/0x02-shell_redirections/0-hello_world
+	*	1665506623	0
+	"	3	0
+	^	3	0
+	.	2	18
+	+	2	18
 
 > ~/storage/git
 	*	1665478795	0
