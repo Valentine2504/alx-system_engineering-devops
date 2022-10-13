@@ -176,3 +176,67 @@ link github.com
 link --helo
 link --help
 exit ENTER
+install python
+pkg install python
+apk install python
+pkg install python
+pkg install proot
+pkg install wget
+git clone https://github.com/Neo-Oli/termux-ubuntu
+cd termux-ubuntu/
+ls
+chmod +x *
+sh ubuntu.sh
+./start.sh
+./start-ubuntu.sh
+ls
+./start-ubuntu.sh 
+pkg install proot
+./start-ubuntu.sh 
+ls
+ls ubuntu-fs/
+cd ubuntu-fs/
+ls
+cd ..
+proot --help
+proot -w
+cd ..
+ls
+cd termux-ubuntu/
+ls
+ls ubuntu.tar.gz 
+./start-ubuntu.sh 
+proot --help
+proot -O
+proot --root-if
+proot --root-id
+exit
+date
+cal
+clear
+git
+pwd
+la
+ls
+ls storage/
+cd storage/
+ls movies
+cd movies
+ls
+exit
+df
+files
+file
+exit
+ls
+cat e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf 
+vim e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf 
+exit
+pkg install openshh sshpass
+echo 'alias sandbox="sshpass-pa18ca3c9ce5afda78a9b ssh6ba85debcdd8.f3ba4dba.alx-cod.online"' >> ~/.bashrc
+. ~/.bashrc
+sandbox
+ls
+ls ..
+clear
+exit
